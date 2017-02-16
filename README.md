@@ -1,1 +1,1 @@
-Test 2
+This is a description for the project.
